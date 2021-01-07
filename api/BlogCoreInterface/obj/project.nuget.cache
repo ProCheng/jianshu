@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "V8vA/nTVQzqMViml4mx6Ka9nN2BYD45uTJuWvH0euqbKI4/hCyoRVCXynixHr59MlLj0Cs/7f9KdX7iE75K8Ig==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
-=======
   "dgSpecHash": "Ab8vXJMRQO1hw0ZvycUQojvOZW5uwOhIaxNaYLUAVb8B9F/05P9ThB4EF3Hl3OgIHDj4TjFKALMAKS10MmEUdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -105,5 +99,12 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "读取缓存文件 C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\obj\\project.nuget.cache 时遇到问题: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

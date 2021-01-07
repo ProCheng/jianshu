@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "y1+hILqKKY8wlksIXQsP5WLHz/rTxHfyXLepYPJa3TYea1JhL+rd4liRiwhQ00octIeztQLlsBDwROSKVu1AYQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreApi\\BlogCoreApi.csproj",
-=======
   "dgSpecHash": "KxDvbdvSAJqPsgtKQwYqpeNQ2FnrQHWz2Fb1BzB63BvkiAIjIQEgN/irzYPdwLGpa5QAFZVoI7MxHKcP2lBtKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreApi\\BlogCoreApi.csproj",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",

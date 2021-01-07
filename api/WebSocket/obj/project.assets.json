@@ -151,19 +151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
-      "projectName": "MyWebSocket",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
-      "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
       "projectName": "MyWebSocket",
       "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
       "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\WebSocket\\obj\\",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -227,5 +219,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "读取缓存文件 C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\WebSocket\\obj\\project.nuget.cache 时遇到问题: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

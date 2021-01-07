@@ -1,17 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "rfdZ+SNGqN3ZFKnVrv/M4aHhh+I6dEIS9x77P4E4TfY7qbInCUhc2c7Z4qajT307AgYiyWCZIYUkyGAJ0c3U9A==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj",
-=======
   "dgSpecHash": "ogg154IdTJGaIJesQLu9ItSRZ7SV2vmg3FvJpcrXyWSo6qTPdOGVh7wYQQC7vxHJAVgllcuMYDw6DRUQ+xOEOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "读取缓存文件 C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\obj\\project.nuget.cache 时遇到问题: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

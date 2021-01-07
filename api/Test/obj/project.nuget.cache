@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "dZ8d6Hs9StDfyivxTKOdBcs/TeCcGMPXjR3mPgMAlkfft9XI+cNkYT37wOax37n8Lxwtkr+9KrK6gEQVe/qFfA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Test\\Test.csproj",
-=======
   "dgSpecHash": "Ym2yx4ftUNUsJ5x57Z//Z1aexWAkfG0kV1jUHf+EtUXMGPWXIlimckYCRnngS6gm/FjA9z+xPSB8ubtOlamQxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Test\\Test.csproj",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
@@ -21,5 +15,12 @@
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "读取缓存文件 C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Test\\obj\\project.nuget.cache 时遇到问题: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

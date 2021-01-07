@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "YqovGXyBBjXqUqp8oTq8CT1c8Vi642r8GDTZcosV9RlP8C8vgwJgb9LW8O9+OOcz2AF51kNFSj+5Mvqx/lGRjg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
-=======
   "dgSpecHash": "cRmK0vEujwGJi28qBGKfb4c5f00QB5+7//ltvOVS+OZBBeijEdYrmhambZSgncSnF587H5cSmrSR64ESinKAdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
     "C:\\Users\\SpiritMaple\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

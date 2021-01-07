@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj",
-        "projectName": "Common",
-        "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\obj\\",
-=======
     "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\Common.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\obj\\",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

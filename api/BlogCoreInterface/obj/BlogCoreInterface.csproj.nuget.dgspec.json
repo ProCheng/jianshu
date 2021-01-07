@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
-        "projectName": "BlogCoreDomain",
-        "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
-        "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\obj\\",
-=======
     "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
         "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\obj\\",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,16 +71,6 @@
         }
       }
     },
-<<<<<<< HEAD
-    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
-        "projectName": "BlogCoreInterface",
-        "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
-        "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\obj\\",
-=======
     "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -103,7 +79,6 @@
         "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
         "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\obj\\",
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,13 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-<<<<<<< HEAD
-              "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
-                "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj"
-=======
               "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
                 "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj"
->>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
               }
             }
           }
