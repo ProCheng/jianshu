@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Model\\obj\\",
+      "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",

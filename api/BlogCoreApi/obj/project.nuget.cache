@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sPO5atteIfjZaTrNBwOGrJmGv509dVf028UA+yFzUjSLv3WiyQWRe38Yx0XFtAwo3heZljAVMN8hYp89pDWCHA==",
+  "dgSpecHash": "y1+hILqKKY8wlksIXQsP5WLHz/rTxHfyXLepYPJa3TYea1JhL+rd4liRiwhQ00octIeztQLlsBDwROSKVu1AYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreApi\\BlogCoreApi.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreApi\\BlogCoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",

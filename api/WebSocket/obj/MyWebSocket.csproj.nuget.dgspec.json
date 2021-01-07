@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\WebSocket\\MyWebSocket.csproj": {}
+    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\WebSocket\\MyWebSocket.csproj": {
+    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
+        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
         "projectName": "MyWebSocket",
-        "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
+        "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
         "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\WebSocket\\obj\\",
+        "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",

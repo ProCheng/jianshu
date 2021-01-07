@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
+      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
       "projectName": "BlogCoreDomain",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
+      "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
       "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\obj\\",
+      "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",

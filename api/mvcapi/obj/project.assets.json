@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\mvcapi\\mvcapi.csproj",
+      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\mvcapi.csproj",
       "projectName": "mvcapi",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\mvcapi\\mvcapi.csproj",
+      "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\mvcapi.csproj",
       "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\mvcapi\\obj\\",
+      "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",

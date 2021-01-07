@@ -5775,11 +5775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
+      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
       "projectName": "BlogCoreImplement",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
+      "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
       "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\obj\\",
+      "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreImplement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5796,11 +5796,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
-              "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj"
+            "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
+              "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj"
             },
-            "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {
-              "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj"
+            "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {
+              "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj"
             }
           }
         }

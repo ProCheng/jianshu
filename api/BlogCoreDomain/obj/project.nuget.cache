@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DSP+zDR9sUpwVnMsF2hNV3b8IkJvQCG07qqa6+U9Trx8XTQYtyMZVvhvyiqJK/HnFNE4C3/8T5RoIkNEsqH/yg==",
+  "dgSpecHash": "LDVllTb0OC8MRod/lObh6olobuVoDN8YG2OQSyRNeE/7QCw107ZEXAbz8UxmOqMM1Yh+r+uJlvmOsPwzyb+lGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

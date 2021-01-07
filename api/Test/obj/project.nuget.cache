@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SlQ7YcyVSamdTs/ZYMLmL+CokyDDvuIIGH5s8G3fVD/QNDNr2siqJx8mJErqAbxEaH1TCAo4FW4wga0yZxwtYA==",
+  "dgSpecHash": "dZ8d6Hs9StDfyivxTKOdBcs/TeCcGMPXjR3mPgMAlkfft9XI+cNkYT37wOax37n8Lxwtkr+9KrK6gEQVe/qFfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

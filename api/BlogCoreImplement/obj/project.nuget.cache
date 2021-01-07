@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cppm/QPFFOvPJl5p9cQHduyCq72SO0V3zxCnsF2qMjZ+NFXGP2IlaR4aZQOxhFQ7V5uLd5GT3jAsaXCUGgOt/g==",
+  "dgSpecHash": "YqovGXyBBjXqUqp8oTq8CT1c8Vi642r8GDTZcosV9RlP8C8vgwJgb9LW8O9+OOcz2AF51kNFSj+5Mvqx/lGRjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

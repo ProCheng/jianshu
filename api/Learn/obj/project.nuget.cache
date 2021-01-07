@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "royroxAzCBJ27UMspgnlgeaGsOCGIxElpHIVh+C53UN1IrnodX0Q81Z5O9rLy8xnosChLQ+fQJu7ZKwt2h6Mcg==",
+  "dgSpecHash": "2QQEl2PONoF592lLv2/DO55O+mOmgTlgfO0uqr5Hw81l8M7bgA2jGdiHXnlM6qkXT7SZfLM5obDoR1arr8LX1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Learn\\Learn.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Learn\\Learn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

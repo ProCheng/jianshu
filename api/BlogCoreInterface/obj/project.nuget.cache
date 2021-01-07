@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxICSP+RxDcaerfi9abqLFS/m7mJx6ZdPeEnxs54JIgoiqE5/xhiL42yOspEREU2773oBj09P7G99YwkO1A0nQ==",
+  "dgSpecHash": "V8vA/nTVQzqMViml4mx6Ka9nN2BYD45uTJuWvH0euqbKI4/hCyoRVCXynixHr59MlLj0Cs/7f9KdX7iE75K8Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

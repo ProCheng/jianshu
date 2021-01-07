@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o0YZ8eQRXzAW0QnLYK5VmN74+kB22j4sDsh8MIWzBE2czKbIFd55J9Bkqqw54M90IXlRNyG7gGOfuflzuffROw==",
+  "dgSpecHash": "YqW5VGV7Q9ShWv2hjL1QwOKJXLJ9zCuy+jbVghdYs/ZUIS5n9vFvxnHzr4JqQD8YiekgPHITltqB9o1BdLIQIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\mvcapi\\mvcapi.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\mvcapi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

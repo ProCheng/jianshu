@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\Common.csproj": {}
+    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\Common.csproj": {
+    "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\obj\\",
+        "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
