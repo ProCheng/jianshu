@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Learn\\Learn.csproj": {}
   },
   "projects": {
@@ -12,9 +13,25 @@
         "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Learn\\Learn.csproj",
         "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Learn\\obj\\",
+=======
+    "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Learn\\Learn.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Learn\\Learn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Learn\\Learn.csproj",
+        "projectName": "Learn",
+        "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Learn\\Learn.csproj",
+        "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Learn\\obj\\",
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SpiritMaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,10 +43,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj": {
                 "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj"
+=======
+              "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj"
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
               }
             }
           }
@@ -42,7 +63,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.DotNet.PlatformAbstractions": {
               "target": "Package",
@@ -71,10 +91,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -83,9 +104,22 @@
         "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Model\\obj\\",
+=======
+    "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\obj\\",
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SpiritMaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,7 +131,6 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -109,7 +142,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -128,7 +160,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

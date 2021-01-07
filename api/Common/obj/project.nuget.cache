@@ -1,19 +1,25 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TrPZSHYpTdugsDMXL9zQqmq2ycIh+20zsrLxROEGnJj+mpcddDmT/g9EROF1gSVrdcXb7sODOuUXTYFGN9pIPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Common\\Common.csproj",
+=======
+  "dgSpecHash": "m4HV5aXQdPgh3TN+XJc1ge6m6S4bfCIFeBdTwpplgWb3C3Oddz5mVkyo0/ACjDyDM/wUDVLSFcCvLZ7d9wtegA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\Common.csproj",
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
-    "C:\\Users\\cheng\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\mimekit\\2.10.0\\mimekit.2.10.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\mimekit\\2.10.0\\mimekit.2.10.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }

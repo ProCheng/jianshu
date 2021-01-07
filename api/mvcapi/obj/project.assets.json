@@ -8,19 +8,31 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\cheng\\.nuget\\packages\\": {}
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\mvcapi.csproj",
       "projectName": "mvcapi",
       "projectPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\mvcapi.csproj",
       "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\mvcapi\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\mvcapi\\mvcapi.csproj",
+      "projectName": "mvcapi",
+      "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\mvcapi\\mvcapi.csproj",
+      "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\mvcapi\\obj\\",
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SpiritMaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +44,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +55,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,16 +1,22 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2QQEl2PONoF592lLv2/DO55O+mOmgTlgfO0uqr5Hw81l8M7bgA2jGdiHXnlM6qkXT7SZfLM5obDoR1arr8LX1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\Learn\\Learn.csproj",
+=======
+  "dgSpecHash": "KJEqu03mkAW9HsPjVitqcGSF/DD9YfbiJLtgZWHZ68iiaRmQ4GQlTyXy5avbMG7zfElFoXnsYc/4ezw+/DyYpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Learn\\Learn.csproj",
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
-    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }

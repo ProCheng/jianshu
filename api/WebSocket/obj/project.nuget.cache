@@ -1,13 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "087gv7S7JE8PBseLKUdglm4BJgWEP7A89EmMyHQD74dU+lZFl5LrMb+/U2f29q4eiHOupuAB3XS983SDecH40w==",
   "success": true,
   "projectFilePath": "C:\\Users\\cheng\\Desktop\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
+=======
+  "dgSpecHash": "pnh5Gxj7qmU9ew7TIGGLXouwTRJbA+odSQGSZMXcDMtvPvkzoNw8ZtrF+NYqodJ/ngseIpUsfihtuiDHc5GSdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
+>>>>>>> 6b2eeaef30c23c6b3eec5fcfe9c821b9f1a15899
   "expectedPackageFiles": [
-    "C:\\Users\\cheng\\.nuget\\packages\\forestpeas.websocketclient\\1.0.0\\forestpeas.websocketclient.1.0.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.10\\microsoft.aspnetcore.testhost.3.1.10.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\forestpeas.websocketclient\\1.0.0\\forestpeas.websocketclient.1.0.0.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.10\\microsoft.aspnetcore.testhost.3.1.10.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
   ],
   "logs": []
 }
