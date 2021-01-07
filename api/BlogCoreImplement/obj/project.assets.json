@@ -2635,12 +2635,11 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2674,12 +2673,11 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5681,12 +5679,11 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5770,19 +5767,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cheng\\.nuget\\packages\\": {}
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
+      "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
       "projectName": "BlogCoreImplement",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
-      "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreImplement\\obj\\",
+      "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreImplement\\BlogCoreImplement.csproj",
+      "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreImplement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SpiritMaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5794,13 +5795,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
-              "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj"
+            "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
+              "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj"
             },
-            "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {
-              "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj"
+            "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj": {
+              "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreInterface\\BlogCoreInterface.csproj"
             }
           }
         }
@@ -5813,7 +5813,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
@@ -5838,7 +5837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -514,19 +514,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cheng\\.nuget\\packages\\": {}
+    "C:\\Users\\SpiritMaple\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\Common.csproj",
-      "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Common\\obj\\",
+      "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\Common.csproj",
+      "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Common\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SpiritMaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -538,7 +542,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -550,7 +553,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MailKit": {
             "target": "Package",
@@ -572,7 +574,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

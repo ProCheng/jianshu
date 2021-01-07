@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {}
+    "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
+    "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
+        "projectUniqueName": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
         "projectName": "BlogCoreDomain",
-        "projectPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
-        "packagesPath": "C:\\Users\\cheng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\BlogCoreDomain\\obj\\",
+        "projectPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\BlogCoreDomain.csproj",
+        "packagesPath": "C:\\Users\\SpiritMaple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\BlogCoreDomain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SpiritMaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

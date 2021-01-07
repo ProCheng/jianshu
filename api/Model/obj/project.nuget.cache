@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VF2SEAg4MafBN0oc6BnyUvG2mF+Wql7LRxcYABc+U+SngJKkvZq8zlznvwu5pV45FXlKXDhBQje6OjwvmlLO2w==",
+  "dgSpecHash": "ogg154IdTJGaIJesQLu9ItSRZ7SV2vmg3FvJpcrXyWSo6qTPdOGVh7wYQQC7vxHJAVgllcuMYDw6DRUQ+xOEOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\Model\\Model.csproj",
+  "projectFilePath": "C:\\Users\\SpiritMaple\\OneDrive\\桌面\\jianshu\\api\\Model\\Model.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\cheng\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
