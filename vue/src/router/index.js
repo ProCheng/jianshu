@@ -14,6 +14,9 @@ import sign_Up from '@/components/user/sign_in_up/sign_up'
 // 用户主页
 import personal_Homepage from '@/views/user/personal_homepage'
 
+// 文章详情
+import article_Info from '@/views/article/article_info'
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -32,6 +35,10 @@ const routes = [
   {
     path: '/personal_Homepage',
     component: personal_Homepage
+  },
+  {
+    path: '/article_Info',
+    component: article_Info
   }
 ]
 
