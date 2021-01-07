@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlogCoreApi</name>
+    </assembly>
+    <members>
+        <member name="F:BlogCoreApi.Controllers.UserController._Authenticate">
+            <summary>
+            颁发token
+            </summary>
+        </member>
+        <member name="M:BlogCoreApi.Controllers.UserController.Login(BlogCoreDomain.Model.User)">
+            <summary>
+            用户登录
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BlogCoreApi.Controllers.UserController.Register(BlogCoreDomain.Model.User,System.String,System.String)">
+            <summary>
+            用户注册
+            </summary>
+            <param name="user"></param>
+            <param name="validId"></param>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BlogCoreApi.Controllers.ValidController.Email(System.String)">
+            <summary>
+            邮箱验证控制器
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

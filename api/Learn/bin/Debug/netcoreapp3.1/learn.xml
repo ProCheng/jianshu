@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Learn</name>
+    </assembly>
+    <members>
+        <member name="T:Learn.Controllers.HomeController">
+            <summary>
+            主页
+            </summary>
+        </member>
+        <member name="M:Learn.Controllers.HomeController.Get(System.Int32)">
+            <summary>
+            第一个方法
+            </summary>
+            <param name="i"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

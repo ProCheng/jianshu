@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aE6iUs6pOIeNjEtQQuzdidTXP8hFEEdR+/yn/CutyfiAhUZuDu4ol4PtRq7WxfGm0RJ7HdNshcqO9ikA1/bZrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cheng\\Desktop\\简书项目\\jianshu\\api\\WebSocket\\MyWebSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cheng\\.nuget\\packages\\forestpeas.websocketclient\\1.0.0\\forestpeas.websocketclient.1.0.0.nupkg.sha512",
+    "C:\\Users\\cheng\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.10\\microsoft.aspnetcore.testhost.3.1.10.nupkg.sha512",
+    "C:\\Users\\cheng\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\cheng\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

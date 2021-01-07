@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlogCoreDomain</name>
+    </assembly>
+    <members>
+        <member name="M:BlogCoreDomain.BlogDBContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{BlogCoreDomain.BlogDBContext})">
+            <summary>
+            通过依赖注入，注册数据库操作对象
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="P:BlogCoreDomain.BlogDBContext.Users">
+            <summary>
+            用户模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.BlogDBContext.Classifies">
+            <summary>
+            分类模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.BlogDBContext.Articles">
+            <summary>
+            文章模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.BlogDBContext.Comments">
+            <summary>
+            评论模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.BlogDBContext.Attentions">
+            <summary>
+            用户关注模型
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.Article">
+            <summary>
+            文章类
+            </summary>
+        </member>
+        <member name="M:BlogCoreDomain.Model.Article.#ctor">
+            <summary>
+            文章模型的构造函数
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.Title">
+            <summary>
+             标题
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.ViewsCount">
+            <summary>
+            浏览量
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.LikeCount">
+            <summary>
+            点击量
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.CommontCount">
+            <summary>
+            评论总数
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.PostDate">
+            <summary>
+            发表时间
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.ClassifyId">
+            <summary>
+            分类Id
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.Classify">
+            <summary>
+            分类导航，一对多
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.UserId">
+            <summary>
+            发表文章的用户Id
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.User">
+            <summary>
+            用户导航，一对多
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Article.Comments">
+            <summary>
+            文章评论导航，多对一
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.Attention">
+            <summary>
+            用户关注模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Attention.UserId">
+            <summary>
+            用户Id
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Attention.FriendId">
+            <summary>
+            朋友Id
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Attention.User">
+            <summary>
+            用户，导航
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.BaseModel">
+            <summary>
+            基本模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.BaseModel.Id">
+            <summary>
+            唯一Id
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.Classify">
+            <summary>
+            文章分类
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Classify.CName">
+            <summary>
+            分类名称
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Classify.Description">
+            <summary>
+            分类描述
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.Comment">
+            <summary>
+            发表评论模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Comment.UserId">
+            <summary>
+            用户id
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Comment.ArticleId">
+            <summary>
+            文章Id
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Comment.Article">
+            <summary>
+            文章
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Comment.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Comment.CommentDate">
+            <summary>
+            发表时间
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.Comment.ParentId">
+            <summary>
+            父评论
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.TokenManagement">
+            <summary>
+            jwt令牌
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.TokenManagement.Secret">
+            <summary>
+            秘钥
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.TokenManagement.Issuer">
+            <summary>
+            发行人
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.TokenManagement.Audience">
+            <summary>
+            读者，听众
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.TokenManagement.AccessExpiration">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.TokenManagement.RefreshExpiration">
+            <summary>
+            结束时间
+            </summary>
+        </member>
+        <member name="T:BlogCoreDomain.Model.User">
+            <summary>
+            用户模型
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Telphone">
+            <summary>
+            电话
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Account">
+            <summary>
+            账号
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Pwd">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.NikeName">
+            <summary>
+            昵称
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Icon">
+            <summary>
+            图标
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.RegDate">
+            <summary>
+            注册时间
+            </summary>
+        </member>
+        <member name="P:BlogCoreDomain.Model.User.Articles">
+            <summary>
+             一对多--文章模型，导航
+            </summary>
+        </member>
+    </members>
+</doc>
